@@ -1,0 +1,173 @@
+
+section {
+    margin: 1em;
+}
+
+h1 {
+    margin: 1rem;
+}
+
+#p-start {
+    margin: 1rem;
+    font-size: 1.6vw;
+    color: #8809a1;
+}
+
+#p-end {
+    margin: 1rem;
+}
+
+
+
+#p-peel {
+    margin: 1rem;
+    font-size: 1.6vw;
+    color: #180440 ;
+}
+
+#btn-peel {
+  color: #ccc ;
+  background-color: #8809a1;
+}
+
+#p-pad {
+  margin: 1rem;
+  color: #ccc ;
+  font-size: 1.9vw;
+}
+
+#btn-pad {
+  color: #ccc ;
+  background-color: #180440;
+  font-size: 2vw;
+}
+
+#title-hial {
+  font-size: 3.8vw;
+}
+
+#p-hial {
+  color: #ccc;
+  margin-right: 1em;
+  font-size: 1.9vw;
+}
+
+#btn-hial {
+  font-size: 2.1vw;
+  color: #ccc ;
+  background-color: #8809a1;
+}
+
+/*
+    Estilos del Formulario
+*/
+
+#p-tit-form {
+    color: rgb(7, 156, 194);
+    font-size: xx-large;
+}
+
+#form-section {
+    background-color: #bdc3c7;
+    padding: 1rem;
+}
+
+#footer {
+    background: linear-gradient(148deg, rgba(19,35,48,1) 7%, rgba(32,81,117,1) 100%);
+    height: 6vw;
+}
+
+#contenidofooter {
+    margin-top: 1.3vw;
+    margin-left: 1.4vw;
+    color: white;
+}
+
+#nav-it {
+    color: #a3a9ad;
+    font-size: 1vw;
+    margin-right: 0.8vw;
+}
+
+#nav-it:hover {
+    color: #1ca123;
+}
+
+.col {
+    padding-top: 2px;
+}
+
+#m2:hover {
+    color: red;
+}
+
+#m2 {
+    color: blue;
+}
+
+#h3-peel {
+    margin: 1rem;
+    color: black;
+}
+
+#title-conf {
+    color:  #f7f2f8 ;
+    font-size: 1.5vw;
+    margin-left: 2vw;
+}
+
+#cardEst {
+    border-color: #017bff;
+    border-radius: 0rem;
+}
+
+#cardTra {
+    border-color: #17a2b8;
+    border-radius: 0rem;
+}
+
+#cardJun {
+    border-color: #fec007;
+    border-radius: 0rem;
+}
+
+
+.card {
+    width: 100%;
+}
+
+#menu {
+    background-color: rgb(51, 57, 63);
+}
+
+#nav-it-orador {
+    color: white;
+    font-size: 1vw;
+    margin-right: 0.8vw;
+}
+
+#nav-it-tickets {
+    color: #78b922;
+    font-size: 1vw;
+    margin-right: 0.8vw;
+}
+
+#botoneborrar {
+    width: 50%;
+    background-color: #78b922;
+    border-color: #78b922;
+}
+
+#botonresumen {
+    width: 50%;
+    background-color: #78b922;
+    border-color: #78b922;
+}
+
+#cantInput {
+    width: 32.1vw;
+}
+
+#categ {
+    width: 32.1vw;
+}
